@@ -23,7 +23,7 @@ This application is created with the use of libraries and modules. In the applic
 
 As soon as the user runs the code a window opens with a french word. If the user knows the meaning of the word then the user can click on the tick mark with in 3 seconds. After 3 seconds the card will flip and reveal its meaning in English. If after this user clicks on cross button, the word with the meaning will be saved in a csv file named as words_to_learn.csv.
 
-The next time, the user uses this application the words would be taken from words to learn.csv.
+The next time, the user uses this application the words would be taken from words_to_learn.csv.
 
 # Screenshots
 
